@@ -112,4 +112,4 @@ Load balancing in the MLOps lifecycle ensures efficient resource utilization, fa
 [6] https://www.netguru.com/blog/top-machine-learning-frameworks-compared
 [7] https://towardsdatascience.com/scikit-learn-tensorflow-pytorch-keras-but-where-to-begin-9b499e2547d0?gi=263598c3c5be
 
-- **NOTE**: We would also like to give credit to **perplexity AI**, which asked questions to help us obtain the MLOps lifecycle notes: https://www.perplexity.ai/search/you-are-a-software-mlops-engin-P0dJf15zRCiBK.mZ2nzsag
+- **NOTE**: We would also like to give credit to **perplexity AI**, which asked questions to help us obtain the MLOps lifecycle notes: https://www.perplexity.ai/search/you-are-a-software-mlops-engin-P0dJf15zRCiBK.mZ2nzsag#0

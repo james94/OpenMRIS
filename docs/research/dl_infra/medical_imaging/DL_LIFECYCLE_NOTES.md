@@ -102,14 +102,14 @@
 - Consider FDA regulations for AI/ML in medical devices
 
 
-## Citations:
+## Citations
 
-[1] https://www.reddit.com/r/learnpython/comments/v9nv0j/should_i_start_with_scikit_learn_tensorflow_or/
-[2] https://ritza.co/articles/scikit-learn-vs-tensorflow-vs-pytorch-vs-keras/
-[3] https://stackoverflow.com/questions/54527439/differences-in-scikit-learn-keras-or-pytorch
-[4] https://community.deeplearning.ai/t/scikit-learn-vs-tensorflow/250188
-[5] https://www.youtube.com/watch?v=LN2NbUkuddA
-[6] https://towardsdatascience.com/scikit-learn-tensorflow-pytorch-keras-but-where-to-begin-9b499e2547d0?gi=263598c3c5be
-[7] https://www.netguru.com/blog/top-machine-learning-frameworks-compared
+- [1] https://www.reddit.com/r/learnpython/comments/v9nv0j/should_i_start_with_scikit_learn_tensorflow_or/
+- [2] https://ritza.co/articles/scikit-learn-vs-tensorflow-vs-pytorch-vs-keras/
+- [3] https://stackoverflow.com/questions/54527439/differences-in-scikit-learn-keras-or-pytorch
+- [4] https://community.deeplearning.ai/t/scikit-learn-vs-tensorflow/250188
+- [5] https://www.youtube.com/watch?v=LN2NbUkuddA
+- [6] https://towardsdatascience.com/scikit-learn-tensorflow-pytorch-keras-but-where-to-begin-9b499e2547d0?gi=263598c3c5be
+- [7] https://www.netguru.com/blog/top-machine-learning-frameworks-compared
 
-- **NOTE**: We would also like to give credit to **perplexity AI**, which asked questions to help us obtain the Deep Learning lifecycle notes: https://www.perplexity.ai/search/you-are-a-software-deep-learni-1lgw.qDPSn6E0LIeEmwJKg
+- **NOTE**: We would also like to give credit to **perplexity AI**, which asked questions to help us obtain the Deep Learning lifecycle notes: https://www.perplexity.ai/search/you-are-a-software-deep-learni-1lgw.qDPSn6E0LIeEmwJKg#0
