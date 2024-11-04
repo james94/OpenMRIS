@@ -1,4 +1,4 @@
-# MLOps Containerization Cheatsheet
+# MLOps Containerization Notes
 
 ## Data Preparation
 
@@ -177,3 +177,5 @@
 - [6] https://www.datacamp.com/tutorial/tutorial-machine-learning-pipelines-mlops-deployment
 - [7] https://overcast.blog/mastering-kubernetes-for-machine-learning-ml-ai-in-2024-26f0cb509d81?gi=7b82660c7c88
 - [8] https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning?authuser=2
+
+**NOTE**: We would also like to give credit to **perplexity AI**, which we asked questions to help us obtain the Containerization for MLOps in Medical Imaging with emphasis on Docker and Kubernetes notes: https://www.perplexity.ai/search/you-are-a-software-mlops-engin-P0dJf15zRCiBK.mZ2nzsag#2

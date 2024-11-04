@@ -104,12 +104,12 @@ Load balancing in the MLOps lifecycle ensures efficient resource utilization, fa
 
 ## Citations
 
-[1] https://www.reddit.com/r/learnpython/comments/v9nv0j/should_i_start_with_scikit_learn_tensorflow_or/
-[2] https://ritza.co/articles/scikit-learn-vs-tensorflow-vs-pytorch-vs-keras/
-[3] https://www.youtube.com/watch?v=LN2NbUkuddA
-[4] https://stackoverflow.com/questions/54527439/differences-in-scikit-learn-keras-or-pytorch
-[5] https://community.deeplearning.ai/t/scikit-learn-vs-tensorflow/250188
-[6] https://www.netguru.com/blog/top-machine-learning-frameworks-compared
-[7] https://towardsdatascience.com/scikit-learn-tensorflow-pytorch-keras-but-where-to-begin-9b499e2547d0?gi=263598c3c5be
+- [1] https://www.reddit.com/r/learnpython/comments/v9nv0j/should_i_start_with_scikit_learn_tensorflow_or/
+- [2] https://ritza.co/articles/scikit-learn-vs-tensorflow-vs-pytorch-vs-keras/
+- [3] https://www.youtube.com/watch?v=LN2NbUkuddA
+- [4] https://stackoverflow.com/questions/54527439/differences-in-scikit-learn-keras-or-pytorch
+- [5] https://community.deeplearning.ai/t/scikit-learn-vs-tensorflow/250188
+- [6] https://www.netguru.com/blog/top-machine-learning-frameworks-compared
+- [7] https://towardsdatascience.com/scikit-learn-tensorflow-pytorch-keras-but-where-to-begin-9b499e2547d0?gi=263598c3c5be
 
 - **NOTE**: We would also like to give credit to **perplexity AI**, which asked questions to help us obtain the MLOps lifecycle notes: https://www.perplexity.ai/search/you-are-a-software-mlops-engin-P0dJf15zRCiBK.mZ2nzsag#0

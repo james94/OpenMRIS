@@ -1,4 +1,4 @@
-# MLOps Configuration Management Cheatsheet
+# MLOps Configuration Management Notes
 
 ## Yarn Configuration
 
@@ -223,3 +223,5 @@ These notes provide a comprehensive overview of using Yarn and YAML for configur
 - [6] https://docs.aws.amazon.com/codeartifact/latest/ug/npm-yarn.html
 - [7] https://github.com/backstage/backstage/issues/14023
 - [8] https://docs.cloudera.com/runtime/7.2.18/yarn-reference/topics/yarn-config-parameters.html
+
+**NOTE**: We would also like to give credit to **perplexity AI**, which we asked questions to help us obtain the MLOps Configuration Management for Deep Learning in Medical Imaging with emphasis on Apache Yarn and YAML notes: https://www.perplexity.ai/search/you-are-a-software-mlops-engin-P0dJf15zRCiBK.mZ2nzsag#3
