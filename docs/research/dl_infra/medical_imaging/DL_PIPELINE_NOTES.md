@@ -117,4 +117,4 @@ For medical imaging AI infrastructure, you might consider using NiFi for initial
 - [7] https://www.reddit.com/r/mlops/comments/1evza42/mlflow_vs_kubeflow/
 - [8] https://www.netguru.com/blog/top-machine-learning-frameworks-compared
 
-- **NOTE**: We would also like to give credit to **perplexity AI**, which asked questions to help us obtain the Deep Learning Pipeline notes: https://www.perplexity.ai/search/you-are-a-software-deep-learni-1lgw.qDPSn6E0LIeEmwJKg#1
+- **NOTE**: We would also like to give credit to **perplexity AI**, which asked questions to help us obtain the Deep Learning Pipeline (Kubeflow, MLFlow, AirFlow, NiFi) notes: https://www.perplexity.ai/search/you-are-a-software-deep-learni-1lgw.qDPSn6E0LIeEmwJKg#1

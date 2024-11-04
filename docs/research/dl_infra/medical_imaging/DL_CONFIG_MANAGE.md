@@ -1,4 +1,4 @@
-# Configuration Management Cheatsheet for Deep Learning
+# Configuration Management for Deep Learning Notes
 
 ## YARN (Yet Another Resource Negotiator)
 
@@ -124,42 +124,52 @@ environment:
 ## Integrating YARN and YAML in Deep Learning Workflow
 
 1. **Job Submission:**
+
    - Use YAML to define job configurations
    - Submit jobs to YARN using `yarn jar` command with YAML config file
 
 2. **Resource Allocation:**
+
    - Specify resource requirements in YAML
    - YARN allocates resources based on these specifications
 
 3. **Distributed Training:**
+
    - Configure distributed training parameters in YAML
    - YARN manages the distribution of tasks across the cluster
 
 4. **Monitoring:**
+
    - Use YARN's web interface to monitor job progress
    - Log metrics defined in YAML to YARN's log aggregation system
 
 5. **Version Control:**
+
    - Store YAML configs in version control systems
    - Use different YAML files for different experiments or model versions
 
 ## Medical Imaging Specific Considerations
 
 1. **Data Privacy:**
+
    - Use YAML to configure data anonymization steps
    - Ensure YARN is configured to handle sensitive medical data securely
 
 2. **Image Preprocessing:**
+
    - Define preprocessing pipelines for different imaging modalities (MRI, CT, PET, SPECT) in YAML
 
 3. **Model Interpretability:**
+
    - Configure visualization tools and interpretability methods in YAML
 
 4. **Regulatory Compliance:**
+
    - Include compliance checks and audit logging in YAML configurations
    - Ensure YARN is set up to maintain proper data access controls
 
 5. **Multi-modal Learning:**
+
    - Configure fusion of different imaging modalities in YAML
    - Use YARN to allocate resources for complex multi-modal models
 
@@ -173,3 +183,5 @@ environment:
 - [6] https://opensource.com/article/20/9/deep-learning-model-kubernetes
 - [7] https://www.datacamp.com/tutorial/containerization-docker-and-kubernetes-for-machine-learning
 - [8] https://overcast.blog/mastering-kubernetes-for-machine-learning-ml-ai-in-2024-26f0cb509d81?gi=7b82660c7c88
+
+**NOTE**: We would also like to give credit to **perplexity AI**, which we asked questions to help us obtain the Configuration Management for Deep Learning in Medical Imaging with emphasis on Apache Yarn and YAML notes: https://www.perplexity.ai/search/you-are-a-software-deep-learni-1lgw.qDPSn6E0LIeEmwJKg#3

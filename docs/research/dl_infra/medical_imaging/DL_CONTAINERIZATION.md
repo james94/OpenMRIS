@@ -168,3 +168,5 @@ spec:
 - [6] https://opensource.com/article/20/9/deep-learning-model-kubernetes
 - [7] https://library.fiveable.me/machine-learning-engineering/unit-8/containerization-orchestration-docker-kubernetes/study-guide/iIzILeUsNSOT5kw2
 - [8] https://kubernetes.io/index.html
+
+**NOTE**: We would also like to give credit to **perplexity AI**, which we asked questions to help us obtain the Containerization for Deep Learning in Medical Imaging with emphasis on Docker and Kubernetes notes: https://www.perplexity.ai/search/you-are-a-software-deep-learni-1lgw.qDPSn6E0LIeEmwJKg#3
